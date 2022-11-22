@@ -1,2 +1,2 @@
 # odinrecipies
-Showing off recipes with html.
+This is a basic HTML site showcasing famous One Piece recipes!
