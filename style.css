@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255,255,204);
+}
+
+img {
+    transform: scale(1); /* specify the scale of the element */
+    transition: transform 0.3s; /* specify the duration of the transition */
+  }
+
+img:hover {
+    transform: scale(1.3); /* increase the scale of the element on hover */
+  }
