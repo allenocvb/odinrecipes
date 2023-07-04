@@ -1,0 +1,8 @@
+/* set background color of page to rgb(255,255,204) */
+body {
+    background-color: rgb(255,255,204);
+}
+
+.beg {
+    background-color: rgb(178,34,34);
+}
